@@ -1,0 +1,4 @@
+.page-bg-1{
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.89), rgba(0, 0, 0, 0.37)), url(../assets/img/home.jpg); 
+    background-size: cover;
+}
